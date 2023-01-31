@@ -271,24 +271,24 @@
 			this.removeInteractionParticle();
 		}.bind(this);
 
-		// this.canvas.addEventListener('mousemove', this.onMouseMove);
-		// this.canvas.addEventListener('touchmove', this.onTouchMove);
-		// this.canvas.addEventListener('mousedown', this.onMouseDown);
-		// this.canvas.addEventListener('touchstart', this.onTouchStart);
-		// this.canvas.addEventListener('mouseup', this.onMouseUp);
-		// this.canvas.addEventListener('mouseout', this.onMouseOut);
-		// this.canvas.addEventListener('touchend', this.onTouchEnd);
+		this.canvas.addEventListener('mousemove', this.onMouseMove);
+		this.canvas.addEventListener('touchmove', this.onTouchMove);
+		this.canvas.addEventListener('mousedown', this.onMouseDown);
+		this.canvas.addEventListener('touchstart', this.onTouchStart);
+		this.canvas.addEventListener('mouseup', this.onMouseUp);
+		this.canvas.addEventListener('mouseout', this.onMouseOut);
+		this.canvas.addEventListener('touchend', this.onTouchEnd);
 	};
 
 	ParticleNetwork.prototype.unbindUiActions = function() {
 		if (this.canvas) {
-			// this.canvas.removeEventListener('mousemove', this.onMouseMove);
-			// this.canvas.removeEventListener('touchmove', this.onTouchMove);
-			// this.canvas.removeEventListener('mousedown', this.onMouseDown);
-			// this.canvas.removeEventListener('touchstart', this.onTouchStart);
-			// this.canvas.removeEventListener('mouseup', this.onMouseUp);
-			// this.canvas.removeEventListener('mouseout', this.onMouseOut);
-			// this.canvas.removeEventListener('touchend', this.onTouchEnd);
+			this.canvas.removeEventListener('mousemove', this.onMouseMove);
+			this.canvas.removeEventListener('touchmove', this.onTouchMove);
+			this.canvas.removeEventListener('mousedown', this.onMouseDown);
+			this.canvas.removeEventListener('touchstart', this.onTouchStart);
+			this.canvas.removeEventListener('mouseup', this.onMouseUp);
+			this.canvas.removeEventListener('mouseout', this.onMouseOut);
+			this.canvas.removeEventListener('touchend', this.onTouchEnd);
 		}
 	};
 
