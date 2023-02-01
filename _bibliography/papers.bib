@@ -2,7 +2,7 @@
 ---
 
 @inproceedings{liang:sqlright,
-  abbr         = {sqlright},
+  
   title        = {Detecting Logical Bugs of DBMS with Coverage-based Guidance (To Appear)},
   author       = {Yu Liang and Song Liu and Hong Hu},
   abstract     = {Database management system (DBMS) is a critical component of modern data-intensive applications. Developers adopt many testing techniques to detect and fix DBMS bugs such as crashes and assertion failures. However, most of the previous efforts cannot detect logical bugs that render the DBMS returns incorrect results. Recent work proposed several oracles to identify incorrect results, but they rely on rule-based expression generation to synthesize queries without any guidance. <br><br> In this paper, we propose to combine coverage-based guidance, validity-oriented mutations and oracles to detect logical bugs for DBMS systems. To achieve our goal, we first design a set of general APIs to decouple the logic of fuzzers and oracles, so that developers can easily port fuzzing tools to test DBMSs and write new oracles for existing fuzzers. We further provide validity-oriented mutations to generate high-quality query statements so as to find more logical bugs. Our prototype, SQLRight, outperforms existing tools that only rely on oracles or code coverage. It in total detects 18 logical bugs from three well-tested DBMSs, SQLite, PostgreSQL and MySQL. At the time of paper writing, all bugs have been confirmed and 13 of them are fixed.},
