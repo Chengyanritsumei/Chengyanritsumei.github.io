@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-21 09:00:00
+date: 2023-03-08 09:00:00
 inline: true
 ---
 
-:tada: I became my dream Penn State Ph.D. student. Hope to enjoy academic research.
+:tada: 10th Control Division Multi-Symposium, The Society of Instrument and Control Engineers (SICE) Executive Committee Member
