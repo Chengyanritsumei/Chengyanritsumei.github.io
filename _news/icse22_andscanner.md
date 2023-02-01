@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2021-12-03 09:00:00
+date: 2022-8-24 09:00:00
 inline: true
 ---
 
-:tada: Our paper <em>"Large-scale Security Measurements on the Android Firmware Ecosystem"</em> has been accepted by <b>ICSE 2022</b>.
+:tada: <em>"International Symposium on Advanced Technologies and Applications"</em> in the Internet of Things <b>2022</b> Award Chair.
+ 
