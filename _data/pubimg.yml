@@ -11,6 +11,6 @@ ni:
   url:  https://ieeexplore.ieee.org/document/10003417/figures#figures
   
 semi-Markov:
-   image: semi-Markov.png
+   image: Stability_semi-Markov.png
    badge: SICE JCMSI
    url:  https://www.tandfonline.com/doi/pdf/10.9746/jcmsi.13.233?needAccess=true&role=button
