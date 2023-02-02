@@ -24,4 +24,15 @@ Optimal_resource:
    image: Optimal_resource.png
    badge: DRE
    url:  https://link.springer.com/article/10.1007/s00163-020-00346-5
-
+ Finite-time:
+   image: Finite-time.png
+   badge: JCMSI 2020
+   url:  https://ieeexplore.ieee.org/abstract/document/9240446
+  
+ Unmodeled_dynamics:
+   image: Unmodeled_dynamics.png
+   badge: ICAMechS 2013
+   url:  https://ieeexplore.ieee.org/abstract/document/6681712
+  
+  
+ 
