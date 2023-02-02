@@ -9,21 +9,21 @@ ni:
   image: ni.png
   badge: ICAMechS ' 22
   url:  https://ieeexplore.ieee.org/document/10003417/figures#figures
-  
-Stability_semi-Markov:
-   image: Stability_semi-Markov.png
-   badge: SICE JCMSI
-   url:  https://www.tandfonline.com/doi/pdf/10.9746/jcmsi.13.233?needAccess=true&role=button
+Optimal_resource:
+   image: Optimal_resource.png
+   badge: DRE
+   url:  https://link.springer.com/article/10.1007/s00163-020-00346-5  
+
 
 Mixed_control:
    image: Mixed_control.png
    badge: IET CTA
    url:  https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.1162
    
-Optimal_resource:
-   image: Optimal_resource.png
-   badge: DRE
-   url:  https://link.springer.com/article/10.1007/s00163-020-00346-5
+Stability_semi-Markov:
+   image: Stability_semi-Markov.png
+   badge: SICE JCMSI
+   url:  https://www.tandfonline.com/doi/pdf/10.9746/jcmsi.13.233?needAccess=true&role=button
  Finite-time:
    image: Finite-time.png
    badge: JCMSI 2020
