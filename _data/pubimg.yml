@@ -24,12 +24,12 @@ Stability_semi-Markov:
    image: Stability_semi-Markov.png
    badge: SICE JCMSI
    url:  https://www.tandfonline.com/doi/pdf/10.9746/jcmsi.13.233?needAccess=true&role=button
- Finite-time:
+Finite-time:
    image: Finite-time.png
    badge: JCMSI 2020
    url:  https://ieeexplore.ieee.org/abstract/document/9240446
   
- Unmodeled_dynamics:
+Unmodeled_dynamics:
    image: Unmodeled_dynamics.png
    badge: ICAMechS 2013
    url:  https://ieeexplore.ieee.org/abstract/document/6681712
