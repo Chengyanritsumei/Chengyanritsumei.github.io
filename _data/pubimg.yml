@@ -14,3 +14,8 @@ Stability_semi-Markov:
    image: Stability_semi-Markov.png
    badge: SICE JCMSI
    url:  https://www.tandfonline.com/doi/pdf/10.9746/jcmsi.13.233?needAccess=true&role=button
+
+Mixed_control:
+   image: Mixed_control.png
+   badge: IET CTA
+   url:  https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.1162
