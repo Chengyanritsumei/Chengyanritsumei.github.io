@@ -19,3 +19,9 @@ Mixed_control:
    image: Mixed_control.png
    badge: IET CTA
    url:  https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2019.1162
+   
+Optimal_resource:
+   image: Optimal_resource.png
+   badge: DRE
+   url:  https://link.springer.com/article/10.1007/s00163-020-00346-5
+
