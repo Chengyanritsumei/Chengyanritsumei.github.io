@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://www.ritsumei.ac.jp/~sueno/index.html" class="page-description" target="_blank">Control Engineering Lab</a></h6>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="https://en.ritsumei.ac.jp/" class="page-description" target="_blank">Ritsumeikan University</a></h6>
-  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:c-zhao@fc.ritsumei.ac.jp" class="page-description" target="_blank">E-Mail: ChengYan Zhao [Assistant Professor] Ritsumei dot edu</a></h6>
+  <h6 class="m-0 mb-2" style="font-size: 0.83em;"><a href="mailto:c-zhao@fc.ritsumei.ac.jp" class="page-description" target="_blank">E-Mail: c-zhao [at] fc.ritsumei.ac.jp</a></h6>
 profile:
   align: left
   image: profile.jpg
